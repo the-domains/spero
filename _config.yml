@@ -1,0 +1,14 @@
+layout_spectrum: 0.2776584
+typography_spectrum: 0.2003222
+color:
+  saturation: 0.4203441
+  lightness: 0.8698808
+  brandStrength: 0.8948913
+  rhythmicContrast: 0.1564505
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Spero
