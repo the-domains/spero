@@ -1,14 +1,26 @@
-layout_spectrum: 0.2776584
-typography_spectrum: 0.2003222
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.4203441
+  brandStrength: 0.3528464
   lightness: 0.8698808
-  brandStrength: 0.8948913
-  rhythmicContrast: 0.1564505
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#1F1E28'
+    - '#77A3F4'
+    - '#655354'
+    - '#4B6DA3'
+    - '#FFCEB4'
+  rhythmicContrast: 0.1564505
+typography_spectrum: 0.2003222
+layout_spectrum: 0.2776584
 name: Spero
