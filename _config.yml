@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.4203441
   brandStrength: 0.3528464
-  lightness: 0.8698808
+  rhythmicContrast: 0.1564505
   brandColors:
     - '#1F1E28'
     - '#77A3F4'
     - '#655354'
     - '#4B6DA3'
     - '#FFCEB4'
-  rhythmicContrast: 0.1564505
-typography_spectrum: 0.2003222
-layout_spectrum: 0.2776584
+  lightness: 0.8698808
+typography_spectrum: 0.2168843
+layout_spectrum: 1
 name: Spero
